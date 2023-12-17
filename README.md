@@ -1,4 +1,4 @@
-## DRL-Based-MIMO-Antenna-Selection
+## Reinforcement-Learning-Based-MIMO-Antenna-Selection
 
 Implementation of DRL algorithms-based MIMO antenna selection schemes.
 
